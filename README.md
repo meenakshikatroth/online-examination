@@ -18,9 +18,9 @@ Instalation ::
 Default admin email id is head@gmail.com and password is head .
 admin password is md5 encypted.
 
-For any query or feedback contact me at kpsagar1999@gmail.com.
+For any query or feedback contact me at meenakshikatroth@gmail.com.
 
-Thanx.
+
 
 
 ## Precise Explanation regarding the work in detail :
